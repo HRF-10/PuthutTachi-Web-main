@@ -478,9 +478,9 @@ section {
       Highlight Drone              
   -----------------------------------------*/
 #about {
-  margin-top: 100px;
+  margin-top: 50px;
   padding-bottom: 0;
-  margin-bottom: 300px;
+  margin-bottom: 150px;
 }
 
 .about-info {
@@ -514,6 +514,7 @@ section {
 .about-video {
   text-align: center;
   margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 .video-custom {
