@@ -614,6 +614,7 @@ section {
 
 #menu {
   padding-bottom: 50px;
+  overflow: hidden;
 }
 
 #menu .container {
@@ -968,7 +969,7 @@ footer .social-icon {
   }
 
   #menu .menu-thumb {
-    width: 103%;
+    width: 100%;
   }
 
 
