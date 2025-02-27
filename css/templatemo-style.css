@@ -279,7 +279,7 @@ section {
 .custom-navbar .nav li a {
   font-size: 12px;
   font-weight: bold;
-  color: #4898fa;
+  color: #ffffff;
   padding-right: 22px;
   padding-left: 22px;
   text-transform: uppercase;
@@ -288,6 +288,10 @@ section {
 .custom-navbar .nav li a:hover {
   background: transparent;
   color: #61b5ff;
+}
+
+.navbar-duplicate .nav li a {
+  color: #000000;
 }
 
 .custom-navbar .navbar-nav>li>a:hover,
@@ -480,7 +484,7 @@ section {
 #about {
   margin-top: 50px;
   padding-bottom: 0;
-  margin-bottom: 150px;
+  margin-bottom: 50px;
 }
 
 .about-info {
@@ -514,7 +518,6 @@ section {
 .about-video {
   text-align: center;
   margin-top: 20px;
-  margin-bottom: 20px;
 }
 
 .video-custom {
@@ -635,7 +638,7 @@ section {
   overflow: hidden;
   position: relative;
   cursor: pointer;
-  width: 102%;
+  width: 100%;
 }
 
 .menu-thumb .menu-info {
