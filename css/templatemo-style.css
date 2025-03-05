@@ -155,9 +155,8 @@ section {
   -----------------------------------------*/
 
 .section-btn {
-  background: #1aabe4;
-  border-radius: 0;
-  border: 0;
+  background: transparent;
+  border: 1px solid #ffffff;
   color: #f9f9f9;
   font-size: inherit;
   font-weight: normal;
@@ -440,13 +439,8 @@ section {
   background-image: url(../images/bg-besar1.jpg);
 }
 
-.slider .item-first.section-btn {
-  background: transparent;
-  border: 1px solid #ffffff;
-}
-
-.slider .item-first.section-btn:hover,
-.slider .item-first.section-btn:focus {
+.slider .item-first .section-btn:hover,
+.slider .item-first .section-btn:focus {
   background: #1aabe4;
   border-color: transparent;
   color: #ffffff;
